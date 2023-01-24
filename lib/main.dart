@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
   var InController = TextEditingController();
 
   var result = '';
-  var bgColor = Colors.white12;
+  var bgColor = Colors.white;
 
   @override
   Widget build(BuildContext context) {
